@@ -5,7 +5,7 @@
 -     * fullstack development
 -     * data analytics
 -     * data science
-- 🌱 I’m a graduate as a software engineer trainee at ALX AFRICA. A programe which is in collaboration sponsored by MASTER CARD FOUNDATION
+- 🌱 I’m a graduate as a software engineer at ALX AFRICA. A programe which is in collaboration sponsored by MASTER CARD FOUNDATION
 - 💞️ I’m looking to collaborate on projects on:
 -     * APIs
 -     * python development
